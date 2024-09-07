@@ -1,7 +1,7 @@
 /** lab10_functs.c
 * ===========================================================
-* Name: Name, Date
-* Section:
+* Name: Lucas Briggs 06 Sep 2024
+* Section: T1/2 Kloenne
 * Project: Lab 10
 * Purpose: Debugging
 * ===========================================================
